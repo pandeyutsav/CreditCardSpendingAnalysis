@@ -1,11 +1,11 @@
 # CreditCardSpendingAnalysis
-This project performs exploratory data analysis (EDA) on credit card spending using Python. It uncovers consumer behavior and transaction trends, visualizing key insights on spending patterns, merchant categories, and transaction types, providing actionable data for analysis.
-
 Exploratory Data Analysis (EDA) on credit card spending habits using Python, featuring various visualizations including bar plots, pie charts, line plots, and word clouds to uncover spending patterns and trends.
 
-Introduction The goal of this project is to gain insights into customer credit card spending behavior using EDA. We use Python and visualization libraries to explore relationships between factors like gender, card type, spending amount, expenditure type, and more. The analysis helps understand key trends and differences in spending habits.
+**Introduction**
+The goal of this project is to gain insights into customer credit card spending behavior using EDA. We use Python and visualization libraries to explore relationships between factors like gender, card type, spending amount, expenditure type, and more. The analysis helps understand key trends and differences in spending habits.
 
-Dataset Overview The dataset includes records of transactions from multiple customers. Key columns include:
+**Dataset Overview**
+The dataset includes records of transactions from multiple customers. Key columns include:
 
 Date: The date of each transaction
 
@@ -19,7 +19,8 @@ Card Type: The type of credit card used (Silver, Platinum, etc.)
 
 City: The city where the transaction took place
 
-Features The analysis is divided into several key areas:
+**Features**
+The analysis is divided into several key areas:
 
 Data Cleaning & Preprocessing
 
@@ -29,7 +30,7 @@ Extraction of month, day, and weekday
 
 Removal of duplicates and handling of missing values
 
-Visualizations:
+**Visualizations:**
 
 Correlation heatmap to identify relationships between numerical variables
 
@@ -41,7 +42,7 @@ Bar plots to analyze total spending based on various factors like gender, card t
 
 WordCloud to visualize the most frequent cities in transactions
 
-Insights:
+**Insights:**
 
 Gender-wise and day-wise spending trends
 
@@ -49,7 +50,7 @@ Weekday vs weekend spending analysis
 
 Top cities by spending amounts
 
-Technologies Used:
+**Technologies Used:**
 
 Python: Core programming language
 
